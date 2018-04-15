@@ -15,13 +15,10 @@
   "region_code" : "second",
   "population" : 48
   },
-  {"region_name" : "C",
+  {
+  "region_name" : "C",
   "region_code" : "c",
   "population" : 72
   }
  ]
 }
-
-		
-
-// correct json according to chrome:
