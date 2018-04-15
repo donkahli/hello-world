@@ -1,0 +1,26 @@
+[
+  {"region_name" : "P"},
+  {"region_code" : "lom"},
+  {"region_name" : "FIRST"},
+  {"region_code" : "first"},
+  {"region_name" : "SECOND"},
+  {"region_code" : "second"},
+  {"region_name" : "C"},
+  {"region_code" : "c"}
+]
+
+// {
+//   "regions": [
+//   {"region_name" : "P"},
+//   {"region_code" : "lom"},
+//   {"region_name" : "FIRST"},
+//   {"region_code" : "first"},
+//   {"region_name" : "SECOND"},
+//   {"region_code" : "second"},
+//   {"region_name" : "C"},
+//   {"region_code" : "c"}
+//  ]
+// }
+
+
+// correct json according to chrome:
