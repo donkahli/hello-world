@@ -2,17 +2,26 @@
   "regions": [
   {
   "region_name" : "P",
-  "region_code" : "lom"
+  "region_code" : "lom",
+  "population" : 37
   },
   {
   "region_name" : "FIRST",
-  "region_code" : "first"
+  "region_code" : "first",
+  "population" : 42
   },
   {
   "region_name" : "SECOND",
-  "region_code" : "second"
+  "region_code" : "second",
+  "population" : 48
   },
   {"region_name" : "C",
-  "region_code" : "c"}
+  "region_code" : "c",
+  "population" : 72
+  }
  ]
 }
+
+		
+
+// correct json according to chrome:
